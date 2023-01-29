@@ -1,0 +1,87 @@
+{
+  "cart": [
+    {
+      "title": "Red potion",
+      "price": 50,
+      "description": "Restore health +150",
+      "img": "/img/redPotion.jpg",
+      "id": 2,
+      "quantity": 2
+    },
+    {
+      "title": "Green potion",
+      "price": 20,
+      "description": "Restore health +50",
+      "img": "/img/greenPotion.jpg",
+      "id": 1,
+      "quantity": 1
+    },
+    {
+      "title": "Gold coin",
+      "price": 50,
+      "description": "Get 1500 coins (*1 diamond required)",
+      "img": "/img/goldCoin.jpg",
+      "id": 3,
+      "quantity": 1
+    },
+    {
+      "title": "Lightning bolt",
+      "price": 90,
+      "description": "Strikes all enemies with a bolt of lightning",
+      "img": "/img/Bolt.jpg",
+      "id": 4,
+      "quantity": 2
+    }
+  ],
+  "products": [
+    {
+      "title": "Green potion",
+      "price": 20,
+      "description": "Restore health +50",
+      "img": "/img/greenPotion.jpg",
+      "id": 1
+    },
+    {
+      "title": "Red potion",
+      "price": 50,
+      "description": "Restore health +150",
+      "img": "/img/redPotion.jpg",
+      "id": 2
+    },
+    {
+      "title": "Gold coin",
+      "price": 50,
+      "description": "Get 1500 coins (*1 diamond required)",
+      "img": "/img/goldCoin.jpg",
+      "id": 3
+    },
+    {
+      "title": "Lightning bolt",
+      "price": 90,
+      "description": "Strikes all enemies with a bolt of lightning",
+      "img": "/img/Bolt.jpg",
+      "id": 4
+    },
+    {
+      "title": "Legendary sword",
+      "price": 90,
+      "description": "+70 damages",
+      "img": "/img/legendarySword.jpg",
+      "id": 5
+    },
+    {
+      "title": "Misery tressure",
+      "price": 50,
+      "description": "20% chance to drop a special items",
+      "img": "/img/miseryTressure.jpg",
+      "id": 6
+    },
+    {
+      "title": "Wood shield",
+      "price": 70,
+      "description": "30% chance to block 20 damages/attack",
+      "img": "/img/woodShield.jpg",
+      "id": 7
+    }
+  ]
+}
